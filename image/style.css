@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+        background: url('Burj khalifa.jpg');
+        background-size: cover;
+        background-attachment: fixed;
+}
+
+header {
+    color: white;
+    padding: 15px;
+    box-shadow: 0px 2px 3px rgb(255, 255, 255);
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+section {
+    padding: 20px;
+    color:aliceblue
+}
+
+button {
+    background-color:blue;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+}
+.menu-btn {
+    background: blue;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.menu-btn:hover {
+    background: black;
+}
+
+
+
